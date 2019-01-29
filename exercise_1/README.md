@@ -1,0 +1,3 @@
+This is the first exercise of Computational physics course.
+All the evaluation functions, including eval_derivative, test_first_derivative, eva_2nd_derivative,test_second_derivative, eval_Riemann, RIemann_sum,eva_trapezoid,trapezoid_sum, eval_simpson, Simpson_sum, Monte Carlo
+are in the first .py file, num_calculus.py the test file is the test.py and the convergence check with plot is in the convergence_check.py
