@@ -1,0 +1,5 @@
+The optimization of wave function parameters is done by multiplying the Jastrow factors. The inprovements can be made by adding pseudo-potential calculations also into VMC.
+-e stands for writing a series of xommands for the shell to execute them.
+-q stands for putting
+vmc and scf are different. scf find the optimal coefficients of the basis functions which can be viewed as a motion of the syste in the coefficient space towards the energy minimum
+while vmc tries to optimize the variational parameter by minimizing the expecation value of the energy. 
